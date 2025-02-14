@@ -2,7 +2,7 @@
 
 基本的には main/Assets/Scenes/main で開発しています。  
 新しい機能を試す場合は、別プロジェクトで動作確認後にマージしてください。  
-その際には main/MirrorTherapylib_version.unitypackage から必要なライブラリ等をインポートしてください。
+※main/MirrorTherapylib_version.unitypackage から必要なライブラリをインポートしてください。
 
 ## スクリプト構成
 主なスクリプトは main/Assets/Scripts にあります。  
