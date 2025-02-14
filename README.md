@@ -8,7 +8,7 @@
 main/Assets/Scripts/MirrorTherapy 配下にミラーセラピー機能を実装するクラスをまとめています。
 
 - **DAConverter**  
-  fNIRS の同期信号を扱います。Raspberry Pi 4 を介して RS-232C により同期信号を送信します。  
+  fNIRS への同期信号を扱います。Raspberry Pi 4 を介して RS-232C により同期信号を送信します。  
 - **Editor**  
   各種エディタ用ファイルを含みます。  
 - **HandTracking**  
