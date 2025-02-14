@@ -1,7 +1,8 @@
 # VRミラーセラピー UnityProject
 
 基本的には main/Assets/Scenes/main で開発しています。  
-新しい機能を試す場合は、別プロジェクトで動作確認後にマージし、その際には main/MirrorTherapylib_version.unitypackage から必要なライブラリ等をインポートしてください。
+新しい機能を試す場合は、別プロジェクトで動作確認後にマージしてください　
+その際には main/MirrorTherapylib_version.unitypackage から必要なライブラリ等をインポートしてください。
 
 ## スクリプト構成
 主なスクリプトは main/Assets/Scripts にあります。  
