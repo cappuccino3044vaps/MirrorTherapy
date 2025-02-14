@@ -18,7 +18,7 @@ main/Assets/Scripts/MirrorTherapy 配下にミラーセラピー機能を実装�
 - **Settings**  
   カメラやキャリブレーションデータなどの設定ファイルを管理します。
 
-## 使用アセット
+## 使用アセット等
 - UniVRM  
 - MediaPipeUnity  
 - SteamVR  
